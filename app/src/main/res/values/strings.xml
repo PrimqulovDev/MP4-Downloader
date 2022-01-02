@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">MP4 Downloader</string>
+    <string name="downloading" translatable="false">Downloading...</string>
+    <string name="time_divider" translatable="false">/</string>
+    <string name="_32k_views" translatable="false">32K views</string>
+    <string name="_13_43" translatable="false">13:43</string>
+    <string name="label_canceled">Canceled</string>
+    <string name="label_downloading">Downloading...</string>
+    <string name="label_paused">Paused</string>
+</resources>
