@@ -8,6 +8,7 @@
 ## Features
 
 *   Clean Architecture with MVVM
+*   Multi module
 *   Cicrone for navigation
 *   Kotlin coroutine
 *   Android Architecture Components(Room, LiveData, ViewModel)
