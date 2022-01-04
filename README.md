@@ -11,6 +11,7 @@
 *   Multi module
 *   Cicrone for navigation
 *   Kotlin coroutine
+*   DI(Hilt)
 *   Android Architecture Components(Room, LiveData, ViewModel)
 *   Material design.
 
